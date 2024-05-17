@@ -11,9 +11,10 @@ This assignment is for the "Professional Certificate in Coding: Full Stack Devel
 • Run your cloned files with any localhost that you set up on your computer
 
 ## Roadmap of Future Improvements
-Here are a few ideas to improve this app:
-• Change the styles to make it more minimalistic but also engaging to play
-• 
+
+Here are a few ideas to improve this app: <br />
+• Change the styles to make it more minimalistic but also engaging to play <br />
+• Make each square can only be clicked once to prevent confusion from overriding the player inputs
 
 ## License
 
