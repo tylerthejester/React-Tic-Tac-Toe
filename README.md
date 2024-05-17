@@ -12,7 +12,7 @@ This assignment is for the "Professional Certificate in Coding: Full Stack Devel
 
 ## Roadmap of Future Improvements
 
-Here are a few ideas to improve this app: <br />
+Here are a couple of ideas to improve this app: <br />
 • Change the styles to make it more minimalistic but also engaging to play <br />
 • Make each square can only be clicked once to prevent confusion from overriding the player inputs
 
