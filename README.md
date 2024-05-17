@@ -1,5 +1,20 @@
 # React-Tic-Tac-Toe
 
+## Description
+
+This assignment is for the "Professional Certificate in Coding: Full Stack Development with MERN" course. It focuses on two key concepts: managing state between parent and child components, and understanding the component lifecycle. The lifecycle covers creating (mounting) components on the screen, updating them when data changes, and removing them (unmounting) when they're no longer needed.
+
+## How to run
+
+• Fork this repo to your GitHub <br />
+• Clone your repo <br />
+• Run your cloned files with any localhost that you set up on your computer
+
+## Roadmap of Future Improvements
+Here are a few ideas to improve this app:
+• Change the styles to make it more minimalistic but also engaging to play
+• 
+
 ## License
 
 MIT License
